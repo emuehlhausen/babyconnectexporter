@@ -98,7 +98,7 @@ class BabyConnectExporter(object):
 if __name__ == "__main__":
     import sys
 
-    print("Please enter credentials for babyconnect.com")
+    print("Please enter credentials for Baby Connect")
     email = raw_input("Email: ")
     password = getpass.getpass()
 
